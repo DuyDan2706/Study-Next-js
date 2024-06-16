@@ -16,7 +16,7 @@ export default function AuthLayout({
 }>) {
   return (
   <div>
-    <h1 className="text-blue-600">Auth layout </h1>
+
     {children}</div>
   );
 }
